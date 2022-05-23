@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidneyscoelho
 - 👀 I'm interested in learn programming to get a new job
-- 🌱 I’m currently learning ppython language.
+- 🌱 I’m currently learning python language.
 - 📫 How to reach me: sidneyscoelho@gmail.com
 
 <!---
